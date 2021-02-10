@@ -1,0 +1,17 @@
+Group 11:
+Pablo Lostao A20474488
+Jiaxin HE A20450323
+Jingwei Huang A20451980
+
+To test the code, please do as follow:
+	open the terminal;
+	get to the files' folder;
+	use command "make" to make file;
+	use command "./test_assign1_1" to test the code;
+	use command "make clean";
+
+This prorject implements a simple storage manager. It contains following fuctions :
+	createPageFile, openPageFile, closePageFile, destoryPageFile, readBlock, getBlock, 
+	readFIrstBlock, readPreviousBlock, readCurrentBlock, readNextBlock, readLastBlock,
+	writeBlock, writeCurrentBlock, appendEmptyBlock and ensureCapacity.
+
